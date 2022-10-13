@@ -5,7 +5,7 @@ Html 5 --> Next...
 
 
 - 👋 Hi, I’m @angelrunnertst
-- 👀 I’m interested in the code and the computerscience!!!
+- 👀 I’m interested in the code and computerscience!!!
 - 🌱 I’m currently learning about maths, physisc and general and science.
 <!---
 angelrunnertst/angelrunnertst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
