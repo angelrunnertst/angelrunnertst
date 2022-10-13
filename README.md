@@ -1,4 +1,4 @@
-Hola a tod@s, esto es un pequeño granito de arena a la programación básica, me gustaría aprender de muchas cosas y compartirlas por aquí.
+Hola a tod@s, esto es un pequeño granito de arena a la programación básica, me gusta aprender muchas cosas de informática y pienso compartirlas por aquí.
 *Básicamente serán pruebas en varios lenguajes de programación y marcas, y seguir practicando tema de editores de texto como Markdown, Latex etc.*
 -----------------------------------------------------------------
 Html 5 --> Next...
